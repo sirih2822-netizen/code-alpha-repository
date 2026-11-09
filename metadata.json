@@ -1,0 +1,6 @@
+{
+  "name": "Stock Portfolio Tracker",
+  "description": "CodeAlpha internship project: A Python & Streamlit stock portfolio tracking dashboard with financial metrics, hardcoded sample prices, lot management, and CSV export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

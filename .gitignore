@@ -1,0 +1,45 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Streamlit Local Cache & Runtime
+.streamlit/secrets.toml
+.streamlit/credentials.toml
+
+# Distribution / packaging / artifacts
+build/
+dist/
+node_modules/
+*.egg-info/
+
+# Exported runtime CSV files
+*.csv
+
+# Unit testing & caches
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Editors and IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Environment variables
+.env
+.env.local
